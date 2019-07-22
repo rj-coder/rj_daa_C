@@ -17,7 +17,7 @@ int main(void) {
 		printf("No Memory Allocated");
 	else
 		printf("%p\n",ptr);
-	*ptr = 33;
+	*ptr = 3334;
 	printf("\n%d",*ptr);
 	return 0;
 }
